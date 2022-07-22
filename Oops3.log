@@ -1,0 +1,9 @@
+2022-07-22 14:54:36,940ERRORname 'surname1' is not defined
+Traceback (most recent call last):
+  File "C:/Users/460379/Python Projects ineuron/Python_Exception_Handling/except_Exception_handling.py", line 9, in __init__
+    self.surname = surname1
+NameError: name 'surname1' is not defined
+2022-07-22 14:54:36,941INFOThis is been executed
+2022-07-22 14:54:36,941INFOthis will be executed finally
+2022-07-22 14:55:20,684INFOThis code is Oops code
+2022-07-22 14:55:20,684INFOthis will be executed finally
